@@ -2,3 +2,4 @@
 # work-day-planner
 
 This is a online workday planner that saves the users intput to the local storage aswel as displays the current date and what time we are in on the planner. i have included a screenshot of the finished site and a link to the deployment
+https://dovahkiin1993.github.io/work-day-planner/
